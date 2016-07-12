@@ -10,10 +10,10 @@
 // 7) If you are 62 or older, you collect social security benefits
 
 function whatCanYouDo (age) {
-	// CODE HERE
-	if (age < 16) {
-		console.log('you can go to school! YES!')
-	} else if (age >= 16 && age < 18) {
+    // CODE HERE
+    if (age < 16) {
+        console.log('you can go to school! YES!')
+    } else if (age >= 16 && age < 18) {
         console.log('you can drive!')
     } else if (age >= 18 && age < 21) {
         console.log('you can vote!')
