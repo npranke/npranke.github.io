@@ -31,6 +31,7 @@ function startGame(userChoice) {
     //  cpuChoice = generateCPUChoice();
     // }
     var cpuChoice = generateCPUChoice();
+    // var winner = compare(userChoice, cpuChoice);
     var winner = pythonicCompare(userChoice, cpuChoice);
     console.log(winner + ' is the winner!');
     console.log("");
