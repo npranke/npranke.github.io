@@ -1,0 +1,12 @@
+{
+  "name": "rps",
+  "version": "0.1.0",
+  "description": "Rock < Paper < Scissors < Rock",
+  "author": {
+    "name": "npranke",
+    "email": "n.pranke@gmail.com"
+  },
+  "dependencies": {
+    "prompt": "1.0.0"
+  }
+}
