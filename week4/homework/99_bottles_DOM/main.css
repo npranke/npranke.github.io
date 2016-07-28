@@ -1,0 +1,13 @@
+body {
+    color: navy;
+    font-family: monospace;
+}
+
+li {
+    padding-top: 12px;
+}
+
+#the-title {
+    padding-top: 12px;
+    text-align: center;
+}
